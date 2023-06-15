@@ -656,5 +656,10 @@ footer .copyright{
                 width:145px;
             }
         }
+        @media (max-width: 344px){
+            #features .fe-box {
+                width:135px;
+            }
+        }
     }
 }
